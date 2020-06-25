@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/first_neural_network-283177.zip
+/first_neural_network-result-283177.json
+*.py
